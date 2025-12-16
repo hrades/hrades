@@ -36,10 +36,12 @@ Sou entusiasta de programação, automação, análise de dados e robótica. Tra
 
 <p align="center">
 <a href="https://github.com/hrades">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrades&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrades&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
 </a>
+</p>
+<p align="center">
 <a href="https://github.com/hrades">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrades&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrades&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
 </a>
 </p>
 
