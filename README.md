@@ -14,23 +14,22 @@ Soluções em código. Inteligência em dados.
 Sou entusiasta de programação, automação, análise de dados e robótica. Trabalho com desenvolvimento de soluções que envolvem integração entre inteçigência artificial, dashboards de visualização e aplicativo interativos.
 </p>
 <ul>
-<li>🌱 Atualmente estou aprendendo... <strong>Machine Learning e Inteligência Artificial</strong>.</li>
-<li>👯 Estou procurando colaborar em... <strong>projetos de análise de dados, visualização e automação</strong>.</li>
-<li>🤔 Estou procurando ajuda com... <strong>otimização de modelos e boas práticas em Python</strong>.</li>
+<li>🌱 Atualmente estou aprendendo: <strong>AWS e Inteligência Artificial</strong>.</li>
+<li>👯 Estou procurando colaborar em: <strong>projetos de análise de dados, visualização e automação</strong>.</li>
+<li>🤔 Estou procurando ajuda com: <strong>APIs em Python</strong>.</li>
 <li>⚡ Fato curioso: <strong>Adoro transformar dados complexos em insights visuais!</strong>.</li>
 </ul>
 
 🛠️ Ferramentas e Tecnologias
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</a>
-<a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</a>
-<!-- Adicione mais tecnologias aqui -->
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40" alt="aws" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" width="40" alt="excel" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" width="40" alt="powerbi" />
+</div>
 
 📊 Minhas Estatísticas do GitHub
 
