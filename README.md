@@ -11,7 +11,7 @@ Soluções em código. Inteligência em dados.
 👨‍💻 Sobre Mim
 
 <p>
-Sou entusiasta de programação, automação, análise de dados e robótica. Trabalho com desenvolvimento de soluções que envolvem engenharia de dados, inteligência artificial, dashboards de visualização e aplicativo interativos.
+Sou entusiasta de programação, automação, ciência e análise de dados. Trabalho com desenvolvimento de soluções que envolvem engenharia de dados, inteligência artificial, dashboards de visualização e aplicativo interativos.
 </p>
 <ul>
 <li>🌱 Atualmente estou aprendendo: <strong>SQL, PySpark e AWS</strong>.</li>
