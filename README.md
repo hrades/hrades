@@ -11,13 +11,13 @@ Soluções em código. Inteligência em dados.
 👨‍💻 Sobre Mim
 
 <p>
-Sou entusiasta de programação, automação, análise de dados e robótica. Trabalho com desenvolvimento de soluções que envolvem integração entre inteçigência artificial, dashboards de visualização e aplicativo interativos.
+Sou entusiasta de programação, automação, análise de dados e robótica. Trabalho com desenvolvimento de soluções que envolvem engenharia de dados, inteligência artificial, dashboards de visualização e aplicativo interativos.
 </p>
 <ul>
-<li>🌱 Atualmente estou aprendendo: <strong>AWS e Inteligência Artificial</strong>.</li>
-<li>👯 Estou procurando colaborar em: <strong>projetos de análise de dados, visualização e automação</strong>.</li>
+<li>🌱 Atualmente estou aprendendo: <strong>SQL, PySpark e AWS</strong>.</li>
+<li>👯 Estou procurando colaborar em: <strong>projetos de engenharia e análise de dados, inteligência artificial e aplicações python</strong>.</li>
 <li>🤔 Estou procurando ajuda com: <strong>APIs em Python</strong>.</li>
-<li>⚡ Fato curioso: <strong>Adoro transformar dados complexos em insights visuais!</strong>.</li>
+<li>⚡ Fato curioso: <strong>Adoro trabalhar com dados e programação front/back em python!</strong>.</li>
 </ul>
 
 🛠️ Ferramentas e Tecnologias
@@ -34,20 +34,20 @@ Sou entusiasta de programação, automação, análise de dados e robótica. Tra
 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-<a href="https://github.com/hrades">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrades&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
-</a>
+  <a href="https://github.com/hrades">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrades&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
+  </a>
 </p>
 <p align="center">
-<a href="https://github.com/hrades">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrades&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
-</a>
+  <a href="https://github.com/hrades">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrades&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
+  </a>
 </p>
 
 📫 Conecte-se Comigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/heloísa-rades-de-souza/" target="_blank">
+<a href="https://www.linkedin.com/in/heloisarades/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:heloisa.rades@gmail.com">
